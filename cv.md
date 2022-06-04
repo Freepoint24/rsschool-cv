@@ -4,7 +4,7 @@ Alexandr Romanov
 
 ### Contact Info:
 + Telephone number: +375 44 5443006
-+ Email: 5443006gmail.com
++ Email: 5443006@gmail.com
 + Github: https://github.com/Freepoint24
 + Discord Alex(Freepoint24)
 
