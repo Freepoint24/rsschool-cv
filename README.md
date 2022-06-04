@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://freepoint24.github.io/rsschool-cv/cv
+https://freepoint24.github.io/rsschool-cv/
